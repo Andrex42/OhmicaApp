@@ -1,41 +1,41 @@
 # ⚡ OhmicaApp
 
-> **Ohmica App** è un'interfaccia HMI (Human-Machine Interface) da remoto progettata per la gestione e il monitoraggio di impianti basati su tecnologia Siemens.
+> **Ohmica App** is a remote HMI (Human-Machine Interface) designed for the management and monitoring of Siemens-based industrial plants.
 
 ---
 
-## 📋 Info Progetto
+## 📋 Project Info
 
-| Dettaglio | Descrizione |
+| Detail | Description |
 | :--- | :--- |
-| **Ruolo** | Backend Developer |
-| **Periodo** | 2024 – 2025 |
-| **Piattaforme Supportate** | Windows, macOS, Android, iOS |
+| **Role** | Backend Developer |
+| **Period** | 2024 – 2025 |
+| **Supported Platforms** | Windows, macOS, Android, iOS |
 
 ---
 
-## 📖 Descrizione
+## 📖 Description
 
-OhmicaApp nasce con l'obiettivo di fornire un controllo remoto multipiattaforma per sistemi industriali Siemens. Grazie a un frontend sviluppato interamente in **Flutter**, l'applicazione garantisce un'esperienza fluida e coerente su tutti i dispositivi (desktop e mobile). 
+OhmicaApp was created with the goal of providing cross-platform remote control for Siemens industrial systems. Thanks to a frontend developed entirely in **Flutter**, the application guarantees a smooth and consistent experience across all devices (desktop and mobile). 
 
-Il cuore dell'applicazione comunica con gli impianti attraverso una solida architettura backend, progettata per gestire i dati in tempo reale e in modo sicuro.
+The core of the application communicates with the plants through a solid backend architecture, designed to handle real-time data securely.
 
 ---
 
-## 🛠️ Stack Tecnologico
+## 🛠️ Tech Stack
 
-Il progetto si basa su un'architettura moderna divisa tra frontend multipiattaforma e backend scalabile:
+The project is based on a modern architecture divided between a cross-platform frontend and a scalable backend:
 
 * **Frontend:** Flutter (Dart)
-* **Backend:** Python (Sviluppo API)
+* **Backend:** Python (API Development)
 * **Database:** MySQL
 
 ---
 
-## 👨‍💻 Il Mio Ruolo
+## 👨‍💻 My Role
 
-All'interno di questo progetto, ho ricoperto principalmente il ruolo di **Backend Developer**. Le mie responsabilità principali includevano:
+In this project, I primarily held the role of **Backend Developer**. My main responsibilities included:
 
-* **Sviluppo API:** Progettazione e implementazione delle API in **Python** per consentire la comunicazione tra l'app client (Flutter) e il server.
-* **Gestione Database:** Strutturazione e gestione dei dati attraverso **MySQL**, assicurando l'integrità e l'efficienza delle query per il monitoraggio degli impianti Siemens.
-* **Integrazione:** Lavoro a stretto contatto con il lato frontend per garantire un flusso di dati rapido, sicuro e affidabile.
+* **API Development:** Designing and implementing APIs in **Python** to enable communication between the client app (Flutter) and the server.
+* **Database Management:** Structuring and managing data using **MySQL**, ensuring data integrity and efficient queries for monitoring the Siemens plants.
+* **Integration:** Working closely with the frontend side to ensure a fast, secure, and reliable data flow.
